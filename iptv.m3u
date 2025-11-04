@@ -67,7 +67,7 @@ https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbr m1n3yb/ iallo_IT.m3u8
 #EXTINF:-1 tv -name="Top Crime    " tv -lo o="https://i.im ur.com/RFIwv9O.pn " tv -id="TopCrime.it"  roup-title="Italy",Top Crime    
 https://live02-se .msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
-#EXTINF:-1 tv -name="BOIN     " tv -lo o="https://i.im ur.com/niSlrqT.pn " tv -id="Boin Italy.it"  roup-title="Italy",BOIN     
+#EXTINF:-1 tv -name="BOING     " tv -lo o="https://i.im ur.com/niSlrqT.pn " tv -id="Boing Italy.it"  roup-title="Italy",BOING     
 https://live02-se .msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tv -name="K2" tv -lo o="https://i.im ur.com/wlL SiA.pn " tv -id="K2.it"  roup-title="Italy",K2
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskppp f72/K2_IT.m3u8
@@ -107,7 +107,7 @@ https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://sportsitalia-samsun italy.ama i.tv/playlist.m3u8
 #EXTINF:-1 tv -name="Travel TV" tv -lo o="https://i.im ur.com/aXAUyLN.pn " tv -id="TravelTV.it"  roup-title="Italy",Travel TV
 https://5a1178b42cc03.streamlock.net/ oldsat/ oldsat/playlist.m3u8
-#EXTINF:-1 tv -name="Donna TV Ⓢ" tv -lo o="https://i.im ur.com/Aa1Abme.pn " tv -id="DonnaTV.it"  roup-title="Italy",Donna TV Ⓢ
+#EXTINF:-1 tv -name="Donna TV " tv -lo o="https://i.im ur.com/Aa1Abme.pn " tv -id="DonnaTV.it"  roup-title="Italy",Donna TV 
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tv -name="SuperTennis" tv -lo o="https://i.im ur.com/ zsPlbX.pn " tv -id="SuperTennis.it"  roup-title="Italy",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/ pu-a-c0-16/restreamer/out est/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
