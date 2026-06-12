@@ -21,7 +21,7 @@ https://nl1.dstv.cx/RSILa2/index.m3u8
 #EXTINF:-1 tvg-name="Teleticino" tvg-logo="https://i.imgur.com/zm2ruqz.png" tvg-id="TeleTicino.ch" group-title="Switzerland",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:-1 tvg-name="Espansione Tv" tvg-logo="https://i.imgur.com/mm9HKpD.png" tvg-id="EspansioneTV.it" tvg-country="IT" group-title="Italy",Espansione Tv
-http://espansione.meway.tv:80/live/espansione/hasbahca.m3u8
+https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8
 #EXTINF:-1 tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="La7.it" group-title="Italy",La7
 https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 tvg-name="La7 Cinema" tvg-logo="https://i.imgur.com/khPweok.png" tvg-id="La7Cinema.it"  group-title="Italy",La7 Cinema
